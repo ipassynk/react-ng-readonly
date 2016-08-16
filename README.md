@@ -1,0 +1,1 @@
+React way to do Angular ng-readOnly
